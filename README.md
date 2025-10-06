@@ -162,13 +162,3 @@ The stability score combined GDP growth, inflation, and unemployment — identif
 > It demonstrates both *technical skill* and *storytelling ability* — key aspects of a modern data analyst portfolio.
 
 ---
-
-📌 **Repo Name:** `economic-trends-analysis`  
-📄 **Deliverables:**
-- `src/flow.py` → ETL pipeline script  
-- `data/economic_metrics.csv` → Clean dataset  
-- `dashboard/global_economic_dashboard.pbix` → Power BI file  
-- `README.md` → Documentation (this file)  
-- `docs/global_dashboard.png` → Dashboard screenshot  
-
----
