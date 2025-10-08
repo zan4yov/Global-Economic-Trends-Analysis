@@ -1,0 +1,6 @@
+pandas>=2.2
+requests>=2.32
+SQLAlchemy>=2.0
+prefect>=2.16
+python-dotenv>=1.0
+pyarrow>=17.0
